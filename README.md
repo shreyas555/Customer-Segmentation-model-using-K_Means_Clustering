@@ -1,1 +1,1 @@
-# Customer-Segmentation-model-using-Machine-Learning-in-R
+# Customer-Segmentation-model-using-K Means Clustering
